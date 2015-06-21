@@ -1,8 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.dll.config
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.dll
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.dll.config
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Algorithms.FeatureMatching.SelectionMethods\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.SelectionMethods.pdb
